@@ -223,3 +223,467 @@ header .hero-image .photo-bg {
 .search-box {
   /* display: none; */
 }
+
+
+### DAMIT FIGMA 
+
+position: absolute;
+width: 859px;
+height: 1161px;
+left: 1579px;
+top: 2063px;
+
+background: url(Brisket.png);
+transform: rotate(-180deg);
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 1440px;
+height: 736px;
+left: -8px;
+top: 40px;
+
+background: url(image.png);
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 1440px;
+height: 131px;
+left: 0px;
+top: 605px;
+
+background: linear-gradient(180deg, rgba(26, 26, 26, 0) 0%, #1A1A1A 100%);
+
+
+/* MMMMM... Hungry yet? */
+
+
+position: absolute;
+width: 523px;
+height: 249px;
+left: 680px;
+top: 1290px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 900;
+font-size: 92px;
+line-height: 83px;
+text-align: right;
+text-transform: uppercase;
+
+color: #FFFBFB;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* menu */
+
+
+position: absolute;
+width: 206px;
+height: 78px;
+left: 120px;
+top: 1483px;
+
+/* H1 */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFBFB;
+
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 691px;
+height: 368px;
+left: 527px;
+top: 616px;
+
+background: url(image.png);
+border: 1px solid #FFFFFF;
+filter: drop-shadow(16px 17px 11px rgba(0, 0, 0, 0.61));
+
+
+/* FIND US */
+
+
+position: absolute;
+width: 280px;
+height: 78px;
+left: 117px;
+top: 616px;
+
+/* H1 */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFBFB;
+
+
+
+/* Ribs Full Slab Half Slab Wings(1lb) Burger Hot Dog Bratwursts Pulled Pork Sandwich */
+
+
+position: absolute;
+width: 339px;
+height: 288px;
+left: 120px;
+top: 1581px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 150%;
+/* or 36px */
+
+text-transform: uppercase;
+
+color: #FFFBFB;
+
+border: 1px solid #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* 12345 Main St. St Louis MO 55555 */
+
+
+position: absolute;
+width: 165px;
+height: 44px;
+left: 120px;
+top: 714px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFBFB;
+
+
+
+/* image 2 */
+
+
+position: absolute;
+width: 1504px;
+height: 896px;
+left: -23px;
+top: 2113px;
+
+background: url(image.png);
+
+
+/* Ribs Full Slab Half Slab Wings(1lb) Burger Hot Dog Bratwursts Pulled Pork Sandwich */
+
+
+position: absolute;
+width: 339px;
+height: 288px;
+left: 373px;
+top: 2007px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 150%;
+/* or 36px */
+
+text-align: right;
+text-transform: uppercase;
+
+color: #FFFBFB;
+
+
+
+/* Call Us 555.555.5555 */
+
+
+position: absolute;
+width: 111px;
+height: 44px;
+left: 120px;
+top: 778px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFBFB;
+
+
+
+/* Hours Wednesday 12PM - 5PM Thursday 11AM - 5pm Friday 11am - 7pm Saturday 11am - 7pm */
+
+
+position: absolute;
+width: 217px;
+height: 110px;
+left: 120px;
+top: 842px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFBFB;
+
+
+
+/* SIDES */
+
+
+position: absolute;
+width: 203px;
+height: 78px;
+left: 509px;
+top: 1909px;
+
+/* H1 */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+text-align: right;
+text-transform: uppercase;
+
+color: #FFFBFB;
+
+
+
+/* Group 2 */
+
+
+position: absolute;
+width: 72px;
+height: 32px;
+left: 120px;
+top: 970px;
+
+
+
+/* MENU */
+
+
+position: absolute;
+width: 78px;
+height: 29px;
+left: 502px;
+top: 105px;
+
+/* MENU */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 29px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* CATERING */
+
+
+position: absolute;
+width: 132px;
+height: 29px;
+left: 684px;
+top: 105px;
+
+/* MENU */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 29px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* CONTACT US */
+
+
+position: absolute;
+width: 167px;
+height: 29px;
+left: 1153px;
+top: 105px;
+
+/* MENU */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 29px;
+text-align: right;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* ArrowLef 1 */
+
+
+position: absolute;
+width: 859px;
+height: 475px;
+left: 527px;
+top: 1364px;
+
+background: url(ArrowLef.png);
+
+
+/* Frame */
+
+
+position: absolute;
+width: 249px;
+height: 135px;
+left: 133px;
+top: 60px;
+
+
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 1440px;
+height: 6px;
+left: 0px;
+top: 2451px;
+
+background: #C52F30;
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 1440px;
+height: 452px;
+left: 0px;
+top: 2457px;
+
+background: #000000;
+
+
+/* Address 12345 Main St. St Louis MO 55555 */
+
+
+position: absolute;
+width: 165px;
+height: 66px;
+left: 120px;
+top: 2517px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFBFB;
+
+
+
+/* Call Us 555.555.5555 */
+
+
+position: absolute;
+width: 111px;
+height: 44px;
+left: 120px;
+top: 2603px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFBFB;
+
+
+
+/* Hours Wednesday 12PM - 5PM Thursday 11AM - 5pm Friday 11am - 7pm Saturday 11am - 7pm */
+
+
+position: absolute;
+width: 217px;
+height: 110px;
+left: 425px;
+top: 2517px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFBFB;
+
+
+
+/* iconmonstr-twitter-1 1 */
+
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 1240px;
+top: 2520px;
+
+
+
+/* iconmonstr-facebook-1 1 */
+
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 1286px;
+top: 2520px;
